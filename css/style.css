@@ -1,0 +1,16 @@
+.bor_r_15{
+    border-radius: 15px;
+}
+.topText{
+    color: #8800ff;
+}
+.ownMenu{
+    font-weight: normal;
+    color: #8800ff;
+}
+.flex-column {
+    max-width : 260px;
+}
+.ownImg {
+    margin: 5px;
+}
